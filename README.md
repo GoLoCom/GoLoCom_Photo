@@ -1,2 +1,2 @@
 # GoLoCom_Photo
-尝试把图片上传到Github
+作为个人网页图片库使用
